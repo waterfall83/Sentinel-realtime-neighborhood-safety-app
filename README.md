@@ -34,7 +34,7 @@ Users can **report**, **upvote**, or **downvote** danger spots — making the ma
 
 ## **Tech Stack**
 - **Frontend:** React + Leaflet (for interactive maps)  
-- **Backend:** Firebase Firestore & Auth
+- **Backend:** Firebase Firestore + Auth
 - **APIs:** Geolocation, Leaflet, Gemini
 - **UI / Styling:** TailwindCSS for UI, Radix UI for components  
 
