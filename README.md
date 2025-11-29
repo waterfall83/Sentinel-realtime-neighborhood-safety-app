@@ -32,7 +32,7 @@ Users can **report**, **upvote**, or **downvote** danger spots — making the ma
 
 ---
 
-## **Tech Stack**
+## **What It's Built With**
 - **Frontend:** React + Leaflet (for interactive maps)  
 - **Backend:** Firebase Firestore + Auth
 - **APIs:** Geolocation, Leaflet, Gemini
